@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>ドイツのトリ</name>
+  <author>toshi_a</author>
+  <url>https://github.com/toshia/GermanyBird</url>
+  <targetVersion>0.17.1557</targetVersion>
+  <description>Add Germany Bird to the animal.
+
+  ドイツのトリ要素を追加します。
+
+  ●動物
+  動物として、ドイツのトリを追加します。
+  </description>
+</ModMetaData>

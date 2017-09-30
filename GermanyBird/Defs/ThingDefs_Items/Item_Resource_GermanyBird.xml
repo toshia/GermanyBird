@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <ThingDef ParentName="EggFertBase">
+    <defName>EggGermanyBirdFertilized</defName>
+    <label>ドイツのトリの卵 (受精卵)</label>
+    <description>一見すると600ユーロのような見た目を持つドイツの鳥の卵。あしゅりーはドイツで持ち歩いていた現金600ユーロをスられたと言っているが…？</description>
+    <graphicData>
+      <color>(32,32,32)</color>
+      <drawSize>1.2</drawSize>
+    </graphicData>
+    <statBases>
+      <MarketValue>18.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaysToHatch>5</hatcherDaysToHatch>
+        <hatcherPawn>GermanyBird</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+</Defs>
