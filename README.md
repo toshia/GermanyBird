@@ -28,4 +28,9 @@ RimWorld起動後のメニューから「MOD」をクリックし、MODリスト
 
 ![](https://pbs.twimg.com/media/DKFD2cbVYAAaqJD.jpg)
 
+### 彫刻
 
+入植者が作成する、またはトレーダーが販売している彫刻が、稀にドイツのトリになります。
+画像が違うだけでただの彫刻です。これを展示したからといって入植者の心情が下がることはありません。
+
+![](http://pbs.twimg.com/media/DLxF2roVAAIELdb.jpg)
